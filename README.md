@@ -47,3 +47,7 @@ Accessing JupyterLab in Bash: `Jupyter Lab`
 *Marcus LeGare (Developer)*
 
 *Lucas Manning (Learning Assistant)*
+
+### LICENSE
+
+**COLUMBIA UNIVERISTY FINTECH BOOTCAMP**
