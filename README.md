@@ -41,6 +41,11 @@ Accessing JupyterLab in Bash: `Jupyter Lab`
 
 ## GALLERY
 
+![image](https://github.com/MLeGare29/M10_CHALLENGE/assets/127421460/0a930490-86a4-4531-868a-9d6c952dc61d)
+
+
+![image](https://github.com/MLeGare29/M10_CHALLENGE/assets/127421460/6da550ec-9420-4f1d-9ecb-7052947e6566)
+
 
 ## CONTRIBUTORS
 
