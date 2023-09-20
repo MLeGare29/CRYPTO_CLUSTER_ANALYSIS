@@ -1,6 +1,6 @@
 # CRYTO INVESTMENT CLUSTER ANALYSIS
 
-As requested, in this in-depth Jupyter Lab notebook, the power of Unsupervised Machine Learning will be used to analyze crypto currency data. In this analysis, the crypto data is not only compiled, but also clustered in plots that show the relationships between all of the currencies using the K-Means clustering method and using the PCA (Principle Component Analysis) method in conjunction with the former. 
+As requested, in this in-depth Jupyter Lab notebook, the power of Unsupervised Machine Learning will be used to analyze cryptocurrency data. In this analysis, the crypto data is not only compiled, but also clustered in plots that show the relationships between all of the currencies using the K-Means clustering method and using the PCA (Principle Component Analysis) method in conjunction with the former. 
 
 ## TECHNOLOGIES
 
