@@ -1,4 +1,3 @@
-### M10_CHALLENGE
 # CRYTO INVESTMENT CLUSTER ANALYSIS
 
 As requested, in this in-depth Jupyter Lab notebook, the power of Unsupervised Machine Learning will be used to analyze crypto currency data. In this analysis, the crypto data is not only compiled, but also clustered in plots that show the relationships between all of the currencies using the K-Means clustering method and using the PCA (Principle Component Analysis) method in conjunction with the former. 
@@ -41,11 +40,15 @@ Accessing JupyterLab in Bash: `Jupyter Lab`
 
 ## GALLERY
 
-![image](https://github.com/MLeGare29/M10_CHALLENGE/assets/127421460/0a930490-86a4-4531-868a-9d6c952dc61d)
+![image](https://github.com/MLeGare29/CRYPTO_CLUSTER_ANALYSIS/assets/127421460/5a7c79c9-b37e-43a8-9628-61904c13deb9)
 
+![image](https://github.com/MLeGare29/CRYPTO_CLUSTER_ANALYSIS/assets/127421460/1f11feb7-d27c-4b49-a278-9b4ce1bd2a72)
 
-![image](https://github.com/MLeGare29/M10_CHALLENGE/assets/127421460/6da550ec-9420-4f1d-9ecb-7052947e6566)
+![image](https://github.com/MLeGare29/CRYPTO_CLUSTER_ANALYSIS/assets/127421460/97b69918-1e48-4da9-814b-9b9e15e9a920)
 
+![image](https://github.com/MLeGare29/CRYPTO_CLUSTER_ANALYSIS/assets/127421460/b1853e13-1938-4be7-acb1-0bfdc5002f0c)
+
+![image](https://github.com/MLeGare29/CRYPTO_CLUSTER_ANALYSIS/assets/127421460/b781c39d-57d5-41db-9367-e692169e755b)
 
 ## CONTRIBUTORS
 
